@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_secondary">#9300DB</color>
+    <color name="purple_primary">#7300AB</color>
+    <color name="purple_primary_dark">#430064</color>
+
+    <color name="tab_selected">#ae1af7</color>
+    <color name="tab_not_selected">#430064</color>
+</resources>
